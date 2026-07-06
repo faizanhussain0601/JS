@@ -1,6 +1,6 @@
 // singleton
 
-// objects literals
+// objects literals 
 
 const mysym = Symbol("key1") // symbol declare
 

@@ -11,3 +11,20 @@ for (const key in myObject) {
     
 }
 
+const program = ["js","rb","py","java","cpp"]
+
+for (const key in program) { // for in loop me indexes print hote hai key print karne par
+ 
+    // console.log(program[key])
+    
+}
+
+// const map = new Map()
+
+// map.set('IN','INDIA')
+// map.set('USA','United States of America')
+// map.set('FR','France')
+
+// for(const key in map){
+//     console.log(key)
+// }
